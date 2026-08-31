@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Moudrick Commons</title>
+  <link>https://moudrick-pub.github.io/</link>
+  <description>Open creatives and publications by moudrick, released under permissive licences.</description>
+  <language>en</language>
+  <atom:link href="https://moudrick-pub.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>DevOps infinity loop, minimal</title>
+    <link>https://moudrick-pub.github.io/works/devops-infinity-loop-min/</link>
+    <guid isPermaLink="true">https://moudrick-pub.github.io/works/devops-infinity-loop-min/</guid>
+    <description>The classic eight-phase DevOps loop drawn as plainly as it can be drawn, plus a few labelling variants for teaching and demos.</description>
+  </item>
+</channel>
+</rss>
