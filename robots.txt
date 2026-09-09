@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moudrick-pub.github.io/sitemap.xml
